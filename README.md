@@ -1,7 +1,8 @@
 ### Hello World, I'm Benzarty  👋
 
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e4c71b6756ef276eae998c17e094fe49316997f9&rid=giphy.gif&ct=g" width="500" height="320" />
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 
 
 ## I'm a Student, Developer !!
