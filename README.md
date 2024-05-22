@@ -19,7 +19,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Intellij_IDEA.jpg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="[https://www.simplilearn.com/ice9/free_resources_article_thumb/Intellij_IDEA.jpg](https://scontent.ftun15-1.fna.fbcdn.net/v/t39.30808-6/438088092_820969636728795_8662076971118786437_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KLdY2DBMnr0Q7kNvgHWrOjI&_nc_ht=scontent.ftun15-1.fna&oh=00_AYDKZOxssB3djaKTADkqhhTRRfiWNM4MKt3zuH7tvWRkIQ&oe=6653ECC0)" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
