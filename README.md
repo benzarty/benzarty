@@ -5,10 +5,10 @@
 
 
 
-## I'm a Student, Developer !!
-- 🔭 I’m currently working on my MEAN stack project.
-- 🌱 I’m currently learning Angular and Nodejs
-- 👯 I’m looking to collaborate on open source
+## I'm a Full time software developer at Machinestalk !!
+- 🔭 I’m currently exploring the wold of IOT.
+- 🌱 I’m currently working with Angular and Spring boot
+- 👯 I’m alawys looking for opportunities
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Arabic, French)
 
