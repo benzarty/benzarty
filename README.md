@@ -33,11 +33,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 [<img align="left" alt="Mysql" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][youtube]
 
-[<img align="left" alt="Terminal" width="26px" src="https://symfony.com/logos/symfony_black_03.png" />][youtube]
-[<img align="left" alt="Terminal" width="26px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" />][youtube]
-[<img align="left" alt="Terminal" width="26px" src="https://seeklogo.com/images/E/express-js-logo-FA36FF1D3F-seeklogo.com.png" />][youtube]
-
-
 <br />
 <br />
 ---
@@ -57,6 +52,5 @@
 
 </details>
 
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 
 [linkedin]: https://www.linkedin.com/in/medbenzarti/
