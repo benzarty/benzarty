@@ -6,7 +6,7 @@
 
 
 ## I'm a Full time software developer at Machinestalk !!
-- 🔭 I’m currently exploring the wold of IOT.
+- 🔭 I’m currently exploring the world of IOT.
 - 🌱 I’m currently working with Angular and Spring boot
 - 👯 I’m alawys looking for opportunities
 - 💬 Ask me about ... Anything
