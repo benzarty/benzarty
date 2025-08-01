@@ -7,7 +7,7 @@
 
 ## I'm a Full time software developer at Machinestalk !!
 - 🔭 I’m currently exploring the world of IOT.
-- 🌱 I’m currently working with Angular and Spring boot
+- 🌱 I’m currently working with Angular, React and Spring boot
 - 👯 I’m alawys looking for opportunities
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Arabic, French)
@@ -25,7 +25,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="springboot" width="26px" src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
